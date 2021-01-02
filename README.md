@@ -1,2 +1,2 @@
 # CarGarage
- Website for a garage deveoped using Bootstrap
+ Website for a garage developed using Bootstrap
