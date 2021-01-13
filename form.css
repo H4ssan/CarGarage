@@ -1,6 +1,15 @@
+* {
+    border-radius: 0 !important;
+  }
+
 .userInput{
     background-image: url(./images/garage.jpg);
     background-size: cover;
+}
+
+button{
+    
+    cursor: pointer;
 }
 
 input{
@@ -8,7 +17,14 @@ input{
     border-top: none !important;
     border-left: none !important;
     border-right: none !important;
+    
 }
+
+::placeholder { 
+    color: black; 
+    font-family: 'Oswald', sans-serif;
+
+} 
 
 form{
     width: 25%;
