@@ -1,5 +1,12 @@
 @import "./form.css";
 
+body{
+    color: #888888;
+}
+
+
+
+
 #header{
     background-color: lightgray;
 }
@@ -17,8 +24,6 @@
 	width: 137px;
 	height: 3px;
 	background-color: #f5b900;
-	margin: 0 auto;
-	margin-bottom: 20px;
 }
 
 i{
